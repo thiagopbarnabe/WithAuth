@@ -1,0 +1,12 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\bin\Debug\netcoreapp2.0\WithAuth.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\bin\Debug\netcoreapp2.0\WithAuth.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\bin\Debug\netcoreapp2.0\WithAuth.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\bin\Debug\netcoreapp2.0\WithAuth.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\bin\Debug\netcoreapp2.0\WithAuth.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\WithAuth\WithAuth\obj\Debug\netcoreapp2.0\WithAuth.pdb
